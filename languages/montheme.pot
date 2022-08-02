@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mon Theme\n"
+"POT-Creation-Date: 2022-07-27 09:58+0200\n"
+"PO-Revision-Date: 2022-07-27 10:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_n;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: walker/CommentWalker.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: walker/CommentWalker.php:54
+msgid ""
+"Your comment is awaiting moderation. This is a preview; your comment will be "
+"visible after it has been approved."
+msgstr ""
+
+#: walker/CommentWalker.php:77
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: walker/CommentWalker.php:88
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: walker/CommentWalker.php:93
+msgid "Edit"
+msgstr ""
